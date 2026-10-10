@@ -1,1 +1,4 @@
-"# mage-staff-esp32" 
+Minimalist Example
+=======
+
+Basic read function
